@@ -16,7 +16,7 @@
 <span class="author-block"><sup>3</sup>Google DeepMind,</span>
 <span class="author-block"><sup>*</sup>Equal contribution. Work partially done while interning at SceniX Inc.</span>
 
-### [Website](https://kywind.github.io/real2sim-eval/) | [Paper](https://kywind.github.io/real2sim-eval/)
+### [Website](https://real2sim-eval.github.io/) | [Paper](https:real2sim-eval.github.io/)
 
 ![image](./assets/media/teaser.jpg)
 
