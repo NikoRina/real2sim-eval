@@ -150,7 +150,11 @@ class InteractivePlayground:
         obs = env.unwrapped.get_obs()
 
         print("UI Controls:")
-        print("- Set 1: WASD (XY movement), QE (Z movement)")
+        print("XY movement: WASD")
+        print("Z movement: R (Z+), F (Z-)")
+        print("Rotation: ZX (around Z), CV (around X)")
+        print("Fine XY movement: IJKL")
+        print("Gripper open/close: N (open), M (close)")
         self.key_mappings = {
             # Set 1 controls
             "w": (0, np.array([-0.005, 0, 0])),
